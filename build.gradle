@@ -2,7 +2,7 @@ group 'net.taozi.kotlin'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.1.4-3'
+    ext.kotlin_version = '1.2.0-release-IJ2017.2-1'
 
     repositories {
         maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
