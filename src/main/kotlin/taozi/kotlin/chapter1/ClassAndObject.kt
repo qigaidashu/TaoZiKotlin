@@ -26,6 +26,6 @@ class Women(gender: String, name: String): Human( gender, name)
 class Man(gender: String, name: String): Human( gender, name)
 
 fun main(args: Array<String>) {
-    var wangMaZi:Women  = Women("女", "王麻子")
-    var liDan:  Man= Man("男", "李蛋")
+//    var wangMaZi:Women  = Women("女", "王麻子")
+//    var liDan:  Man= Man("男", "李蛋")
 }
